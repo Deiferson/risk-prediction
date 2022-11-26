@@ -38,14 +38,3 @@ random.shuffle(equipe)
 
 st.markdown("## Equipe")
 st.markdown('\n'.join(equipe))
-
-
-
-#Deiferson da Silva Moura - https://github.com/deiferson - 34141497
-#Francisco Leocassio da Silva - https://github.com/leocassiosilva - 56235626
-#Gabriel Lucas Silva Felix - https://github.com/gabriellfelix - 70151272
-#Letícia Dayana de Campos - https://github.com/leticiadcampos92 - 104459003
-#Luciano Silva de Arruda - https://github.com/lucenfort - 55037889
-#Marcello Alexandre Rodrigues Filho - https://github.com/marcelloale - 22059535
-#Maria Luísa Leandro de Lima - https://github.com/maluwastaken - 50404135
-#Tessele Sampaio Lopes - https://github.com/tesselesampaio - 49620184
