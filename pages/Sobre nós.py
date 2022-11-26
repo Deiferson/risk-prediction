@@ -30,11 +30,8 @@ equipe = [
     "- [Deiferson da Silva Moura](https://github.com/deiferson)",
     "- [Francisco Leocassio da Silva](https://github.com/leocassiosilva)",
     "- [Gabriel Lucas Silva Felix](https://github.com/gabriellfelix)",
-    "- [Letícia Dayana de Campos](https://github.com/leticiadcampos92)",
-    "- [Luciano Silva de Arruda](https://github.com/lucenfort)",
     "- [Marcello Alexandre Rodrigues Filho](https://github.com/marcelloale)",
-    "- [Maria Luísa Leandro de Lima](https://github.com/maluwastaken)",
-    "- [Tessele Sampaio Lopes](https://github.com/tesselesampaio)"
+    "- [Maria Luísa Leandro de Lima](https://github.com/maluwastaken)"
 ]
 
 random.shuffle(equipe)
